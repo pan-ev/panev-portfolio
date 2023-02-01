@@ -1,0 +1,22 @@
+* {
+    background-color: #096684;
+}
+
+header {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1 {
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+
+header nav ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    width: 500px;
+}
